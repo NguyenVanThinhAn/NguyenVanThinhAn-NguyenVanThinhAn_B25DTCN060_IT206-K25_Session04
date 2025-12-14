@@ -1,0 +1,13 @@
+PROMPT
+- Ban đầu: Tóm tắt lợi ích AI (sơ sài)
+- Cải tiến: Chain-of-thought
+- Tối ưu: Format bảng
+
+BẢNG TỔNG HỢP
+
+| Lĩnh vực | Lợi ích | Ví dụ |
+|--------|---------|-------|
+| Cá nhân hóa | Học theo tốc độ riêng | Duolingo điều chỉnh bài |
+| Quản lý | Giảm tải cho gv | Gradescope chấm tự động |
+| Sáng tạo | Soạn giáo án nhanh | ChatGPT, Quizizz |
+| Hỗ trợ khuyết tật | Tăng tiếp cận | Text-to-Speech |
