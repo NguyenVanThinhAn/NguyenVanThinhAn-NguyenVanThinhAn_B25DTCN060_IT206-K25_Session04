@@ -1,0 +1,13 @@
+Dùng prompt: "Giải thích khái niệm vòng lặp trong lập trình" kiểm tra xem có vd minh họa chưa
+
+Kết quả trc khi sửa: Chỉ đưa ra định nghĩa lý thuyết về việc thực thi lặp lại một khối lệnh. Ngôn ngữ mang tính kỹ thuật, hơi khô khan. Có thể ko có vd hoặc chỉ mô tả chung chung, chưa cụ thể hoá bằng code
+
+Viết lại prompt: "Bạn là giảng viên, hãy giải thích khái niệm vòng lặp trong lập trình bằng ngôn ngữ đơn giản, kèm 1 vd Python minh họa"
+
+Kết quả sau khi sửa: AI đóng vai giảng viên nên giọng văn gẫn gũi, dễ hiểu. Giải thích khái niệm qua các tình huống đời thường. Cung cấp đoạn code Python cụ thể giúp người đọc dễ hình dung cách hoạt động
+
+So sánh kết quả:
+
+Prompt cũ: Thông tin chính xác nhưng thiếu chiều sâu và tính ứng dụng, khó tiếp thu với người mới
+
+Prompt mới: Nội dung sinh động, rõ ràng, có tính sư phạm cao và vd thực tế, giúp nắm bắt vấn đề nhanh hơn
