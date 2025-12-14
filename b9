@@ -1,0 +1,28 @@
+YÊU CẦU
+- Bảng so sánh
+- Kết luận mô hình
+- Lộ trình 6–12 tháng
+
+BẢNG SO SÁNH GIẢI PHÁP AI
+
+| Giải pháp | Hiệu quả | Khả thi | Chi phí | Rủi ro |
+|----------|----------|---------|---------|--------|
+| Camera FaceID | Rất cao | Cao | Cao | Rất cao – xâm phạm riêng tư |
+| AI chấm thi | Trung bình–Cao | Cao | Thấp | Trung bình – bias dữ liệu |
+| Chatbot học tập | Cao | Cao | Trung bình | Thấp–TB – hallucination |
+| AI cảm xúc | Thấp | Thấp | Rất cao | Rất cao – đánh giá sai |
+
+KẾT LUẬN
+
+- Mô hình tối ưu: Chatbot + LMS Analytics
+- Lý do:
+  - Cân bằng lợi ích / rủi ro
+  - Không xâm phạm đời tư
+  - Hỗ trợ học tập thực chất
+
+LỘ TRÌNH 6–12 THÁNG
+
+- Tháng 1–2: Thử nghiệm chatbot cho 1 khoa
+- Tháng 3–4: Thu feedback, giảm hallucination
+- Tháng 5–6: Chuẩn hóa bảo mật, training gv
+- Tháng 7–12: Mở rộng toàn trường, cá nhân hóa lộ trình học
